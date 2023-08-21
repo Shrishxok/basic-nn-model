@@ -127,20 +127,24 @@ ai.predict(X_n1_1)
 
 ## Dataset Information
 
-Include screenshot of the dataset
+<img width="247" alt="Screenshot 2023-08-21 at 3 35 08 PM" src="https://github.com/Shrishxok/basic-nn-model/assets/120294863/3d99bc02-584a-4fd9-81f4-6e580409bcee">
+
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+<img width="423" alt="Screenshot 2023-08-21 at 3 35 24 PM" src="https://github.com/Shrishxok/basic-nn-model/assets/120294863/c791e463-41a3-4f1f-b698-024a9213470a">
+
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+<img width="315" alt="261859908-f0d45a6a-504f-4ddc-afc5-2c99761597af" src="https://github.com/Shrishxok/basic-nn-model/assets/120294863/7fbb5c25-96ce-436c-b1b7-e1d0cadfc6b4">
+
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+<img width="408" alt="261859896-a7af5c03-2a78-4051-8f4b-cabf2bcbb365" src="https://github.com/Shrishxok/basic-nn-model/assets/120294863/c1d29a81-3044-4247-a17b-782f241da6cf">
+
 
 ## RESULT
