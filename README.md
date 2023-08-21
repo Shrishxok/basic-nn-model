@@ -148,3 +148,4 @@ ai.predict(X_n1_1)
 
 
 ## RESULT
+Thus the neural network regression model for the given dataset is developed and executed successfully.
